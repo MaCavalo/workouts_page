@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Connect" version="1.1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+  <metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2022-11-14T18:39:44.000Z</time>
+  </metadata>
+  <trk>
+    <name>City of Maputo 请求帮助</name>
+    <type>assistance</type>
+    <trkseg>
+      <trkpt lat="-25.95717455260455608367919921875" lon="32.59846103377640247344970703125">
+        <ele>55</ele>
+        <time>2022-11-14T18:39:44.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>87</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.95717153511941432952880859375" lon="32.59846421889960765838623046875">
+        <ele>55</ele>
+        <time>2022-11-14T18:39:45.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>88</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.95716281794011592864990234375" lon="32.5984741933643817901611328125">
+        <ele>55.200000762939453125</ele>
+        <time>2022-11-14T18:39:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>88</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.95715829171240329742431640625" lon="32.5984748639166355133056640625">
+        <ele>55.40000152587890625</ele>
+        <time>2022-11-14T18:39:57.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>88</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.957155190408229827880859375" lon="32.5984751991927623748779296875">
+        <ele>55.40000152587890625</ele>
+        <time>2022-11-14T18:40:03.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>88</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.95715493895113468170166015625" lon="32.59847645647823810577392578125">
+        <ele>55.40000152587890625</ele>
+        <time>2022-11-14T18:40:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>85</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.957156531512737274169921875" lon="32.5984711758792400360107421875">
+        <ele>55.200000762939453125</ele>
+        <time>2022-11-14T18:40:12.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>87</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.9571563638746738433837890625" lon="32.59848165325820446014404296875">
+        <ele>55.200000762939453125</ele>
+        <time>2022-11-14T18:40:18.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>85</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.95715946517884731292724609375" lon="32.59847863577306270599365234375">
+        <ele>55.200000762939453125</ele>
+        <time>2022-11-14T18:40:20.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>84</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.9571660868823528289794921875" lon="32.598479725420475006103515625">
+        <ele>55</ele>
+        <time>2022-11-14T18:40:25.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>87</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
