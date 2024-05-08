@@ -18,8 +18,8 @@ const data: ISiteMetadataResult = {
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
-      name: '老爸',
-      url: 'https://bossma.vercel.app/',
+      name: 'Strava',
+      url: 'https://www.strava.com/athletes/macavalo',
     },
     {
       name: '老江',
