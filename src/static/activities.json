@@ -5743,5 +5743,35 @@
 "average_speed": 2.8913018752815223,
 "source": "Garmin Connect",
 "streak": 4
+},
+{
+"run_id": 1716696182000,
+"name": "City of Maputo \u516c\u8def\u9a91\u884c",
+"distance": 56633.948875768096,
+"moving_time": "2:36:00",
+"type": "Ride",
+"start_date": "2024-05-26 04:03:02",
+"start_date_local": "2024-05-26 06:03:02",
+"location_country": "Rua 1.307, Sommerschield, Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, 0101-11, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "~xl}Cax}eEdAL`NqZ}AaBGyAiGcDmBwBmAkD[gHaGwH_rAeyAoPmLaPcHiImFe`@m`@gYeUsHkHke@qh@gFmEiPwKaIeLkIuIiImG}GwCmRmBwKgCcI}CsI{AcM[mQfAaKg@kJcCq_@}PsJyC_KiAsW_AwQoBoFDuIwBcP}BuR{GiM_KeMyNcF}D}FaCuIoA_m@_AaKl@cLkAucE{F}FEgB\\gAYaZL}e@eBuyBqCwGf@qH{@yRSgIj@cF~@wNjGmJvIcO`TiDlC}D|A}Ed@yFM_]oJaHcAcXNKe@VUhTA|FZla@vK~EVdE]tDiAvDiCjPkUlIwHzKoFjMwCh\\LhEg@fHz@p|BrCx`@~AvZIbCYzqExGbEKjCu@tB|@bE^~o@`AlInAjFxBrElDdLxMhHbGdI|EpN`FrRvCpFA~GjBxObBdYbAlJhAbKzCr^vPxI|B`Kp@~RgA~JP~IpA`ZtIrQ`BpJhFxI`IdOxRfNvItJvIdd@lg@z`@v\\hNvMD|@P[rOfPlItFjQzHhRxMje@hj@~e@zg@pSfXzCjBxIbCtc@pQxa@tVtHrCsAX_KoFiAc@YPlD~Cc@h@o@?oAmBNxBrEbBcBEG\\vP`Ei@rE|DhBkVlg@hDbEiAlC",
+"average_heartrate": 141.0,
+"average_speed": 6.050635563650437,
+"source": "Garmin Connect",
+"streak": 5
+},
+{
+"run_id": 1716710521000,
+"name": "City of Maputo \u516c\u8def\u9a91\u884c",
+"distance": 2538.326978771161,
+"moving_time": "0:09:06",
+"type": "Ride",
+"start_date": "2024-05-26 08:02:01",
+"start_date_local": "2024-05-26 10:02:01",
+"location_country": "Rua Jo\u00e3o Carlos Raposo Beir\u00e3o, Polana Cimento B, Polana Cimento \"B\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-10, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "lxo}Cmm{eENUuDwDhFsKCa@aQaFia@mV_@FiAnCa@Gci@o[\\mAo@a@",
+"average_heartrate": 143.0,
+"average_speed": 4.648950510569892,
+"source": "Garmin Connect",
+"streak": 5
 }
 ]
