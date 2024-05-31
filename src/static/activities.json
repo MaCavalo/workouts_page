@@ -5848,5 +5848,20 @@
 "average_speed": 2.431344390474218,
 "source": "Garmin Connect",
 "streak": 4
+},
+{
+"run_id": 1717158768000,
+"name": "City of Maputo \u6b65\u884c",
+"distance": 4195.856544250396,
+"moving_time": "0:50:53",
+"type": "Hike",
+"start_date": "2024-05-31 12:32:48",
+"start_date_local": "2024-05-31 14:32:48",
+"location_country": "\u79fb\u6c11\u5c40senami\u745f\u7eb3\u8ff7, 1024, Av. Ho Chi Min, Central B, Central \"B\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, 0101-04, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "rlo}CydzeEvByCdA}CqE{C`A_CWa@pQqa@n@g@vNoZNwBuCUy@s@wDcAd@eEUe@kNqDmBIkB{@gBmB}BwEeD_CkDo@uC@wAd@sApBa@CiOmJgAICc@}IoFoFaC_AR_BxCcAJsArCcAs@",
+"average_heartrate": 110.0,
+"average_speed": 1.3743388615297727,
+"source": "Garmin Connect",
+"streak": 4
 }
 ]
