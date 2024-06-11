@@ -5983,5 +5983,20 @@
 "average_speed": 2.611981600324589,
 "source": "Garmin Connect",
 "streak": 6
+},
+{
+"run_id": 1718079119000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 5803.129288296902,
+"moving_time": "0:34:58",
+"type": "Run",
+"start_date": "2024-06-11 04:11:59",
+"start_date_local": "2024-06-11 06:11:59",
+"location_country": "Black Salt, Av. Kenneth Kaunda, Sommerschield, Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, 0101-11, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "t{l}Ce{}eEq@f@zDk@iAq@j@IHXT[hJcSp@g@h@Dhc@fWn@Fn@iBhBq@dI`@nDpCrC|FrB`B`JlBXOT`@pTpFn@`AaA`DeDtEeAVGiA|AeBqCwCwKqCwBBkDeCiAEgW}Oc@\\oC{@iBeBi]oSk@zAqBz@iLhVyAs@z@oCi@CmAlB}@g@As@",
+"average_heartrate": 140.0,
+"average_speed": 2.7660292127249293,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
