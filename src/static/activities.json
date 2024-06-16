@@ -6058,5 +6058,20 @@
 "average_speed": 5.24074354188959,
 "source": "Garmin Connect",
 "streak": 3
+},
+{
+"run_id": 1718527544000,
+"name": "City of Maputo \u516c\u8def\u9a91\u884c",
+"distance": 3600.807090421338,
+"moving_time": "0:10:33",
+"type": "Ride",
+"start_date": "2024-06-16 08:45:44",
+"start_date_local": "2024-06-16 10:45:44",
+"location_country": "Av. 24 de Julho, Polana Cimento B, Polana Cimento \"B\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, 0101-10, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "`xo}Cyj{eEbMsWh@yBrH{NX@XgBeDoAWCBv@@Se@DmEkBqGiAyCiAq@D{EiBqz@sg@qEmBuAr@yKpUs@J{@vA}@i@Bq@",
+"average_heartrate": 144.0,
+"average_speed": 5.688478815831498,
+"source": "Garmin Connect",
+"streak": 3
 }
 ]
