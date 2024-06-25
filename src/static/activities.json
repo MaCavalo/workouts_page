@@ -6163,5 +6163,20 @@
 "average_speed": 2.8346933774511704,
 "source": "Garmin Connect",
 "streak": 6
+},
+{
+"run_id": 1719288844000,
+"name": "City of Maputo \u516c\u8def\u9a91\u884c",
+"distance": 110428.13753812305,
+"moving_time": "5:32:47",
+"type": "Ride",
+"start_date": "2024-06-25 04:14:04",
+"start_date_local": "2024-06-25 06:14:04",
+"location_country": "ESTRADA NACIONAL N\u00daMERO 1, Chali, Catembe, Distrito Municipal de KaTembe, \u99ac\u666e\u6258, 0106-01, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "vjw}CamueEPa@bB_@vU`Ffp@pIv`@HdJYdKuBpJ{EbFsElEoG~dBy_DbmDatFtIuFzd@mOxN{JpDeBtFiAzSwBtLsCbb@gOhZkNjUsH|iAid@zIyBnkAVxaKaFzIXtm@vLvJp@xdAmHngAuKdc@uFxtAsDtXt@v]aFrS{@rMP|b@rCf`AlSdcAfCnGsAjMcJ`_@u`@pJuHvT{MfJmIvDeC`b@eSvU{CnHQtwA`OjHUjT{DzFSxt@lG`KpAfKpCvAiAJ~An@f@dW|GbfA~DbcBr[vuD|KbK~Bfc@|R|JxC~pAbNxGpA|KtE|Q|OfEhCnF~AxQzBhDJdE]dw@cOjH}Drf@eh@jBwDrKi]~BeEvDoD`Z}NbGoA~TwAjIoArf@mP~EcCpeBi`B`q@ia@hJuItF{Jjv@epBx@oFdH_yAhCcIlByBvCiBv{FcmAxuBcx@bK_FxiBgjA~{BstA|M}E~_AmPrM{Dfo@wYneA_u@`z@}_@~OuFrtB_e@xyDko@rMDls@jKjHf@rLaA~f@eHhG]n`BlCfL_@~Cu@jDKbh@mIFScCPjc@eGhPi@f[b@|fAoBhFi@fEaB~DoDfWu_@lGeHfEkCfFmBvRsCr@g@T}@ImGbAkE`j@udAp]mh@hLw]`Qo[dWyZ~F_G|EoB~VcEtDuCt@sBR}BkCyUHyBx@mBhj@{d@jDkAtMgBnC{B`@}Ci@mCwIyHin@uHuDwAuCmC{AqCcAoECqK`CeJ|FeG",
+"average_heartrate": 141.0,
+"average_speed": 5.530532255127112,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
