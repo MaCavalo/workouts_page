@@ -6913,5 +6913,35 @@
 "average_speed": 2.7582603111144155,
 "source": "Garmin Connect",
 "streak": 5
+},
+{
+"run_id": 1725175177000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 5917.145468501088,
+"moving_time": "0:36:59",
+"type": "Run",
+"start_date": "2024-09-01 07:19:37",
+"start_date_local": "2024-09-01 09:19:37",
+"location_country": "Av. Kenneth Kaunda, Sommerschield, Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, 0101-11, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "d{l}Csx}eEf@aAdACpKyUrB_AGkA|GX~L|AjAi@tJfDvf@xYz@AdMtGrFdAnZdBvEjApEjDvAxDd@pUeCtHuDjE{FpEy@~AErBpDhCJv@}Rju@gA~@iDoAWy@v@sD_EsA",
+"average_heartrate": 132.0,
+"average_speed": 2.6665820047323514,
+"source": "Garmin Connect",
+"streak": 6
+},
+{
+"run_id": 1725179641000,
+"name": "City of Maputo \u6b65\u884c",
+"distance": 4629.863609855555,
+"moving_time": "0:56:36",
+"type": "Hike",
+"start_date": "2024-09-01 08:34:01",
+"start_date_local": "2024-09-01 10:34:01",
+"location_country": "365 Fitness, 120, Rua Belmiro Obadias Muianga, Central \"C\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-03, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "npp}CatyeEaEsAmAAAsI`@yEnJqTpBuAFi@_CyHp@{@Gg@uDeGu@McAyAoHwBjCsHcNkF}AAuL{DwE{BQ]h@qAiAiA@_Cv@s@A}@qA}@UcAkC}Am@x@wCJsHwEpAcEqKkH[gAyFeDgFjKsCeAqCpFsCu@}AzBcE_CAy@",
+"average_heartrate": 118.0,
+"average_speed": 1.363328507024604,
+"source": "Garmin Connect",
+"streak": 6
 }
 ]
