@@ -7153,5 +7153,20 @@
 "average_speed": 2.6506526551099374,
 "source": "Garmin Connect",
 "streak": 5
+},
+{
+"run_id": 1726982883000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 8047.23299061268,
+"moving_time": "0:47:20",
+"type": "Run",
+"start_date": "2024-09-22 05:28:03",
+"start_date_local": "2024-09-22 07:28:03",
+"location_country": "161, Rua Jo\u00e3o Carlos Raposo Beir\u00e3o, Polana Cimento B, Polana Cimento \"B\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-10, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "j`p}Ceg{eEnBnBBj@{E~L{G~XqNxYf@dBn`@xQ|BkK|I{PrDbA`A{@rRav@_@aAkCoB?}Bx@}AvEmDlE{ExB}F\\sDi@yG?{Gs@aD{FiFeFsA}UwAuBV}FeAcMmEmIwEwL{DqJw@kARcAlALf@`G|DlPvJbFbBfBbBnGb@pLtD",
+"average_heartrate": 144.0,
+"average_speed": 2.8335327431734787,
+"source": "Garmin Connect",
+"streak": 6
 }
 ]
