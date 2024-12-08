@@ -8008,5 +8008,20 @@
 "average_speed": 2.543342887017249,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1733639464000,
+"name": "City of Maputo \u6b65\u884c",
+"distance": 2533.4062075399797,
+"moving_time": "0:32:33",
+"type": "Hike",
+"start_date": "2024-12-08 06:31:04",
+"start_date_local": "2024-12-08 08:31:04",
+"location_country": "Terminus Hotel, Avenida Francisco Orlando Magumbwe, Polana Cimento A, Polana Cimento \"A\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-09, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "|~o}Cwp|eEf@_AgTgGs@PmB~CkL}G`AiB`Aa@P_ASi@eIaAHWQZ`@Fq@R}@xA}CeB_AN{DvIq@Eug@a[Cy@k@a@",
+"average_heartrate": 112.0,
+"average_speed": 1.2971869982283561,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
