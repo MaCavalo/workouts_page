@@ -8083,5 +8083,20 @@
 "average_speed": 2.4219332307265593,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1734242402000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 14745.210163859934,
+"moving_time": "1:27:54",
+"type": "Run",
+"start_date": "2024-12-15 06:00:02",
+"start_date_local": "2024-12-15 08:00:02",
+"location_country": "Av. Francisco Orlando Magumbwe, Polana Cimento A, Polana Cimento \"A\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-09, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "zkp}Cen|eEyPb]nAxCvFhGcErJuFpVqGxORl@vQvKfCuDvA{DlAi@rBsDbOrEl@Y~Pmp@s@mA{ByA?aBz@kBbL_LnC{Hg@yJ?iIe@yBkFiFwDiAu]cCaGwAsPqHqWiPsNiHm\\qMiM}DaEoDaBkDmKeMg@mAcAi@o_@}a@mHaH}@RmHxJnE~EA|@gCjCeDuCoHfJgApKJtDt@zC~@n@ji@hHDxAkAtGmAbCEpD[|@}JR{GjJMjC^`AbFjF@`b@RlAtAnAdBKv@`@xFwKlK~KaE~HaE}BqAlBkB{@F`@vFlD",
+"average_heartrate": 158.0,
+"average_speed": 2.7958305202616485,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
