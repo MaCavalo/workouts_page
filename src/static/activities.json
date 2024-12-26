@@ -8158,5 +8158,20 @@
 "average_speed": 2.4968046042556384,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1735193090000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 9080.802616148969,
+"moving_time": "0:53:30",
+"type": "Run",
+"start_date": "2024-12-26 06:04:50",
+"start_date_local": "2024-12-26 08:04:50",
+"location_country": "Rua 1.307, Sommerschield, Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-11, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "dzl}Ckw}eEf@CdElDpf@rY~@_Bz@YhG|CfCeEtIzE`HhB~BwDrGzArC_C~@QpMlC`B{BsAq@|BM^f@jS`F`AqD[a@at@cR@[xAZH_@sEyAIoBdAvAfAMuAsB}CuB{GwB~B~BzC~FxDtB_@xDfBd@lBzBvCMbHtBtAfA}BhGkAzAkDs@_BcAsH{AIWzAeDIWuFiBcg@mZo@Z_EdJmD_BmC`FkGgDmB~ByIoFzFwMCi@}AaAoG`Nx@z@",
+"average_heartrate": 154.0,
+"average_speed": 2.828910472320551,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
