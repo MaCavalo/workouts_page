@@ -8458,5 +8458,20 @@
 "average_speed": 2.352388167263123,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1739077430000,
+"name": "Boane \u516c\u8def\u9a91\u884c",
+"distance": 82309.83133084071,
+"moving_time": "4:06:49",
+"type": "Ride",
+"start_date": "2025-02-09 05:03:50",
+"start_date_local": "2025-02-09 07:03:50",
+"location_country": "Massaca, Boane, \u9a6c\u666e\u6258\u7701, Zona Sul, \u83ab\u6851\u6bd4\u514b",
+"summary_polyline": "rkf~Cgs{cEGhAZp@rGfBxHtDq@fGxCvLxA`DdCjB|JrDhDjC`DpAb@v@uHfq@sCxLcLn[yBt@kCu@wKyGsg@k_@{HqDiHkBqyBoRiqA_DBpArl@jx@lBhDfBnFxAnJ?~JsC|ScCrKuDdL{e@lcAqAdGaBbToAbFw^bx@qF~Jy[`b@cDhC}FbAec@QsDX{H~C{EzFeOdYcDjLe@jMrB|[@hE}@vG}CbHuIvJsK|IkhDfdC}FpBmFj@mcCnIwC`A{BhBcJrRcCtCwDbBeQ|BgDbC{AvCq@jEZzF`FjNfI|NrArLjAfE~h@|m@|AbEfIf_@fAjB`DbClf@lSvB~B~ArELdEa@lDcBtD{BbCuEfBcUjDoO|EyC~Co@hFhAlEtJbNzp@n`@hCnCxAxCjA~IcBjh@ZhGfCrGt[bc@fDdHbAfJ}Apt@\\|FbBbEjKnNvJ~b@~I~LlA|DH`Dc@tCyApCyB`Beg@xI{EfCqBjDuMz_@w@|DE|Bl@lEjAdCjP`UoQaVaAiC_@sDt@{GfNaa@jB_DzD}Bje@aIbC{@fBaBhAgC\\yCIcCkA{DwIoLoKed@qKaO{AsEQkF|Akr@WaFu@yDmC{Fq[{b@wCgHc@mF`Bei@MiDu@uDwA_DiCoCiq@}`@{IcM{AiFh@iFlC_D`PgFxV{DhD{AdCwChAiCh@aEQeEgAeDiDmDwe@aSkD{CkAcC}Hi^_BcEod@wg@kCaEeAwD{AoMaIoNsEuMc@cDDsC|A{F|CaDhDkAvMsAfEuBlBaC~IoRbB_BdCgAbfC{IbEe@jEuAdoDuiCdO}NzDeHtAcI@sEuBk\\`@uLlCqKfMkVrFuIfDaCbEqArIa@n_@JtCUlBw@hC{Bt[wa@bf@_dAvAwFtAcRtAmHve@gcAvDgLvB}I`DsUByJ}A_K}A}E{BeEel@ow@Ys@Rm@tsAbDvuBxQvIvBpHhDvg@l_@pKtGdCt@~Bc@p@}@bKgZjCaLxHaq@a@_AmCaAaE_DiIuCgDyBuA_CmDqMAwAz@yDmHuD{JiC`AuAJuA",
+"average_heartrate": 157.0,
+"average_speed": 5.5580951671848675,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
