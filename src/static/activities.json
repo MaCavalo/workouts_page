@@ -8563,5 +8563,20 @@
 "average_speed": 2.4518247483460307,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1740889129000,
+"name": "City of Maputo \u516c\u8def\u9a91\u884c",
+"distance": 58998.66928098012,
+"moving_time": "2:19:38",
+"type": "Ride",
+"start_date": "2025-03-02 04:18:49",
+"start_date_local": "2025-03-02 06:18:49",
+"location_country": "Rua 1.307, Sommerschield, Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-11, \u83ab\u6851\u6bd4\u514b",
+"summary_polyline": "nxl}Cmx}eEx@j@XKdNuZ{AwAGcBkGcD}BmCcAoD[sGqD{Eeq@ut@o^mb@gTkPwPkHaJiGm^y^ib@}]sg@{j@cVwPeLuOaOqMiI{DeT_CcJuBmC{AaEgA}HwAcL]ySfAcNkA_GeBkb@mRkJ}Bs^eBkSwBeG?iGcBwPeCoS}GoM}JqP_RoD}BcFkBeIiAmn@gAiIx@sBq@}La@s_EuFsf@N}i@mB}tBiC_FVsJk@yQS_PrAgGdB}FrCwJfIsRrWqFzCmDn@aFPiD]u[_JwHiAku@j@yL_B{C@~B]fMvAj]s@xWHzHlAt[vItITnFkArEoCzTcZpFiE|HyDzNoD~[JfFi@nGz@fYFzKf@rtAbBna@~A~OBpNe@frExG|DO`Cq@zFrAfp@bAzJrAxElBfEvCfNzOjKbIhHvD~JdD~R|CrF?nGdBzLvArc@tBpM~Cv`@xQ|GnB`L~@~UiAjOx@~LjD|AHt@p@fJhC`PdAlEfBpG~D`MdLrK`OlNtIlHxGde@ph@~_@v[jPlOh@lAfNlN`ItFpQzH`ShNv]`b@vm@bp@dLxOc@tDv@|CdBjC~N|HjAbB~_Azj@jD|@nA~@rFx@`NvDUp@QKRM@XPYuAa@gZmHm\\sRo@@mAtB{KmG{E~JuDwAiC~EwOcJsBxCcEaC",
+"average_heartrate": 137.0,
+"average_speed": 7.042094686199584,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
